@@ -81,9 +81,9 @@ maximum(array2)
 //N5
 
 function luwkenta(sss) {
-    odd = 33
+    sss = 33
 
-    if (odd % 1 === 1) {
+    if (sss % 1 === 1) {
         console.log("this number is odd");
     }
     else {
